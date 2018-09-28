@@ -44,7 +44,7 @@
       <file leaf-file-name="TestHomePage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestModule/src/test/java/testPages/TestHomePage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
+            <state relative-caret-position="570">
               <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -53,7 +53,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TestRunner.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TestRunner.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/TestModule/src/test/resources/TestRunner.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -71,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="CommonAPI.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="885">
-              <caret line="65" selection-start-line="65" selection-end-line="65" />
+            <state relative-caret-position="-73">
+              <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#859#860#0" expanded="true" />
@@ -99,10 +99,10 @@
       <list>
         <option value="$PROJECT_DIR$/Generic/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
         <option value="$PROJECT_DIR$/TestModule/src/main/java/pages/HomePage.java" />
         <option value="$PROJECT_DIR$/TestModule/src/test/java/testPages/TestHomePage.java" />
         <option value="$PROJECT_DIR$/TestModule/src/test/resources/TestRunner.xml" />
+        <option value="$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java" />
       </list>
     </option>
   </component>
@@ -134,7 +134,7 @@
   <component name="MavenRunner">
     <option name="skipTests" value="true" />
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="12" />
     <option name="y" value="23" />
     <option name="width" value="1428" />
@@ -376,23 +376,32 @@
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="_Users_alifnabila_IdeaProjects_Jenkins3_TestModule_src_test_resources_TestRunner_xml - 2018.09.28 at 19h 33m 47s.xml">
+      <configuration name="/Users/alifnabila/IdeaProjects/Jenkins3/TestModule/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="_Users_alifnabila_IdeaProjects_Jenkins3_TestModule_src_test_resources_TestRunner_xml - 2018.09.28 at 19h 35m 14s.xml">
+      <configuration name="/Users/alifnabila/IdeaProjects/Jenkins3/TestModule/src/test/resources/TestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+  </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1428" height="817" extended-state="0" />
     <layout>
       <window_info anchor="right" id="Palette" />
       <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="right" id="Palette&#9;" />
       <window_info id="Image Layers" />
       <window_info anchor="right" id="Capture Analysis" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" visible="true" weight="0.16233766" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32998565" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32998565" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="right" id="Mongo Explorer" />
-      <window_info anchor="bottom" id="Terminal" />
+      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32998565" />
       <window_info id="Capture Tool" />
       <window_info id="Designer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24963924" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" />
@@ -428,18 +437,6 @@
     <entry file="file://$PROJECT_DIR$/TestModule/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="885">
-          <caret line="65" selection-start-line="65" selection-end-line="65" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#859#860#0" expanded="true" />
-            <element signature="e#889#890#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TestModule/src/main/java/pages/HomePage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="282">
@@ -452,7 +449,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestModule/src/test/java/testPages/TestHomePage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
+        <state relative-caret-position="570">
           <caret line="40" column="5" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -464,6 +461,18 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Generic/src/main/java/base/CommonAPI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-73">
+          <caret line="23" column="35" lean-forward="true" selection-start-line="23" selection-start-column="35" selection-end-line="23" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
