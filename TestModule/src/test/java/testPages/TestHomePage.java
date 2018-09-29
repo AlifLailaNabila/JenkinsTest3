@@ -15,6 +15,7 @@ import java.util.concurrent.TimeUnit;
 
 public class TestHomePage extends HomePage {
     HomePage homePage;
+
     @BeforeMethod
     public void initializationOfElement() {
         homePage = PageFactory.initElements(driver, HomePage.class);
@@ -22,21 +23,9 @@ public class TestHomePage extends HomePage {
 
 
     @Test
-    public void search(){
+    public void search() {
         //driver.findElement(By.cssSelector("#search-field")).sendKeys("Table", Keys.ENTER);
         HomePage hp1 = PageFactory.initElements(driver, HomePage.class);
         hp1.getSearchResult("Table");
-    }
-    @Test
-    public  void click(){
-        HomePage hp2 = PageFactory.initElements(driver, HomePage.class);
-        hp2.getclick();
-    }
-
-    @Test
-    public  void click2() {
-        HomePage hp3 = PageFactory.initElements(driver, HomePage.class);
-        hp3.getAlldepartments();
-        driver.manage().timeouts().implicitlyWait(10,TimeUnit.SECONDS);
     }
 }
