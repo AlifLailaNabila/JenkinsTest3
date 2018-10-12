@@ -86,5 +86,6 @@ public class HomePage extends CommonAPI{
         actions.moveToElement(Furniture).perform();
         //actions.moveToElement(TvNdTuner).click().perform();
     }
+    //test jenkins trigger
 
 }
